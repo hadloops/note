@@ -1,4 +1,4 @@
-> 本书的 GitHub 地址：https://github.com/todayqq/PHPerInterviewGuide
+
 
 算法可以说是大厂的必考题，对于算法，一定要理解其中的精髓、原理。
 
