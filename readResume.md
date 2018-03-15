@@ -43,13 +43,8 @@
 
 ### 写简历的神器
 
-#### 1. 模板
 
-> - https://github.com/geekcompany/ResumeSample
-
-这份模板中包含了 PHP、iOS、Android、Java、前端等等之类的工程师简历模板，写起简历来太轻松，有木有！
-
-##### 2. 在线工具
+##### 1. 在线工具
 
 > - http://cv.ftqq.com/?fr=github#
 
